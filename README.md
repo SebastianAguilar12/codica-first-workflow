@@ -1,2 +1,2 @@
 Codica this is My First Workflow
-![Workflow actions badge](https://github.com/OWNER/REPOSITORY/actions/workflows/hello-world.yml/badge.svg)
+![Workflow actions badge](https://github.com/SebastianAguilar12/codica-first-workflow/actions/workflows/hello-world.yml/badge.svg)
